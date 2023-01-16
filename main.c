@@ -19,7 +19,7 @@ void print_array(int array[]);
 int main(void) { 
   
   // Test data
-  int test_data[] = {123, 5, 9, 3, 4, 2, 8, 65, 78, 43, 34, 89, 999999};
+  int test_data[] = {123, 5, 9, 3, 4, 2, 8, 65, 78, 43, 34, 89, -1, -4, 56, 765, 11, 13, 12, 10, 999999};
 
   // Algorithm
   int iteration = 0;
